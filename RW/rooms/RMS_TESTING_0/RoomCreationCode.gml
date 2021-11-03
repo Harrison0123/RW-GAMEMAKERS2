@@ -1,0 +1,1 @@
+//instance_create_depth(100, 100, -1000, OBJ_PLAYER);
