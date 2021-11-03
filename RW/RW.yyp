@@ -1,6 +1,7 @@
 {
   "resources": [
     {"id":{"name":"SCRP_MELEE_ATTACK2","path":"scripts/SCRP_MELEE_ATTACK2/SCRP_MELEE_ATTACK2.yy",},"order":19,},
+    {"id":{"name":"Delete","path":"rooms/Delete/Delete.yy",},"order":1,},
     {"id":{"name":"SPR_TESTING_TILE_PLACE_HOLDER","path":"sprites/SPR_TESTING_TILE_PLACE_HOLDER/SPR_TESTING_TILE_PLACE_HOLDER.yy",},"order":0,},
     {"id":{"name":"SPR_PLAYER_RANGED_LEGS_RUN","path":"sprites/SPR_PLAYER_RANGED_LEGS_RUN/SPR_PLAYER_RANGED_LEGS_RUN.yy",},"order":9,},
     {"id":{"name":"OBJ_SLOPE_LEFT","path":"objects/OBJ_SLOPE_LEFT/OBJ_SLOPE_LEFT.yy",},"order":1,},
@@ -75,6 +76,7 @@
   },
   "RoomOrderNodes": [
     {"roomId":{"name":"RMS_TESTING_0","path":"rooms/RMS_TESTING_0/RMS_TESTING_0.yy",},},
+    {"roomId":{"name":"Delete","path":"rooms/Delete/Delete.yy",},},
   ],
   "Folders": [
     {"folderPath":"folders/DATA.yy","order":1,"resourceVersion":"1.0","name":"DATA","tags":[],"resourceType":"GMFolder",},
@@ -103,7 +105,7 @@
   ],
   "IncludedFiles": [],
   "MetaData": {
-    "IDEVersion": "2.3.5.589",
+    "IDEVersion": "2.3.6.595",
   },
   "resourceVersion": "1.4",
   "name": "RW",
