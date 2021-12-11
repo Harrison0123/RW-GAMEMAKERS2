@@ -23,18 +23,6 @@
 		global.control_name = "PlayStation Controller";
 		break;
 		
-		case 5:
-		global.control_name = "PlayStation Controller";
-		break;
-		
-		case 6:
-		global.control_name = "PlayStation Controller";
-		break;
-		
-		case 7:
-		global.control_name = "PlayStation Controller";
-		break;
-		
 		
 		
 	   }

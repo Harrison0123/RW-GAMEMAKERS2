@@ -1,5 +1,4 @@
 /// @description  Draw everything related with HUD
-
 #region  //Initializer
 
 var cam_x = camera_get_view_x(view_camera[0]),                             //Get pos of the cam in X position
@@ -25,5 +24,9 @@ draw_sprite(SPR_HUD_PORTRAIT, 0, cam_x + 75, cam_y + 45);                  //Dra
 draw_sprite(SPR_HUD_SLOT, 0, cam_x + 75, cam_y + 45);                      //Draw the SPR_HUD_SLOT at specific position
  
 #endregion
+
+
+
+///aqui va el cambio (recordar)
 
 

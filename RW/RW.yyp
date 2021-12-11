@@ -1,8 +1,8 @@
 {
   "resources": [
     {"id":{"name":"SCRP_MELEE_ATTACK2","path":"scripts/SCRP_MELEE_ATTACK2/SCRP_MELEE_ATTACK2.yy",},"order":19,},
-    {"id":{"name":"Delete","path":"rooms/Delete/Delete.yy",},"order":1,},
     {"id":{"name":"SPR_TESTING_TILE_PLACE_HOLDER","path":"sprites/SPR_TESTING_TILE_PLACE_HOLDER/SPR_TESTING_TILE_PLACE_HOLDER.yy",},"order":0,},
+    {"id":{"name":"OBJ_BRAWLER","path":"objects/OBJ_BRAWLER/OBJ_BRAWLER.yy",},"order":0,},
     {"id":{"name":"SPR_PLAYER_RANGED_LEGS_RUN","path":"sprites/SPR_PLAYER_RANGED_LEGS_RUN/SPR_PLAYER_RANGED_LEGS_RUN.yy",},"order":9,},
     {"id":{"name":"OBJ_SLOPE_LEFT","path":"objects/OBJ_SLOPE_LEFT/OBJ_SLOPE_LEFT.yy",},"order":1,},
     {"id":{"name":"OBJ_PLAYER_STRIP","path":"objects/OBJ_PLAYER_STRIP/OBJ_PLAYER_STRIP.yy",},"order":3,},
@@ -31,6 +31,7 @@
     {"id":{"name":"SPR_BRAWLER_WALK","path":"sprites/SPR_BRAWLER_WALK/SPR_BRAWLER_WALK.yy",},"order":2,},
     {"id":{"name":"SPR_PLAYER_CROUCH_RANGED","path":"sprites/SPR_PLAYER_CROUCH_RANGED/SPR_PLAYER_CROUCH_RANGED.yy",},"order":6,},
     {"id":{"name":"SPR_PLAYER_ATTACK_1","path":"sprites/SPR_PLAYER_ATTACK_1/SPR_PLAYER_ATTACK_1.yy",},"order":11,},
+    {"id":{"name":"SCRP_SPRITE_UPDATE","path":"scripts/SCRP_SPRITE_UPDATE/SCRP_SPRITE_UPDATE.yy",},"order":20,},
     {"id":{"name":"SPR_HUD_SLOT","path":"sprites/SPR_HUD_SLOT/SPR_HUD_SLOT.yy",},"order":5,},
     {"id":{"name":"SCRP_PLAYERIS","path":"scripts/SCRP_PLAYERIS/SCRP_PLAYERIS.yy",},"order":4,},
     {"id":{"name":"SPR_HUD_BACKGROUND","path":"sprites/SPR_HUD_BACKGROUND/SPR_HUD_BACKGROUND.yy",},"order":2,},
@@ -79,7 +80,6 @@
   },
   "RoomOrderNodes": [
     {"roomId":{"name":"RMS_TESTING_0","path":"rooms/RMS_TESTING_0/RMS_TESTING_0.yy",},},
-    {"roomId":{"name":"Delete","path":"rooms/Delete/Delete.yy",},},
   ],
   "Folders": [
     {"folderPath":"folders/DATA.yy","order":1,"resourceVersion":"1.0","name":"DATA","tags":[],"resourceType":"GMFolder",},
@@ -101,6 +101,7 @@
     {"folderPath":"folders/DATA/SPRS/SPRS_PLAYER.yy","order":4,"resourceVersion":"1.0","name":"SPRS_PLAYER","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/DATA/SPRS/SPR_ENEMIES.yy","order":5,"resourceVersion":"1.0","name":"SPR_ENEMIES","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/DATA/SPRS/SPR_ENEMIES/SPR_BRAWLER.yy","order":1,"resourceVersion":"1.0","name":"SPR_BRAWLER","tags":[],"resourceType":"GMFolder",},
+    {"folderPath":"folders/DATA/OBJS/OBJS_ENEMIES.yy","order":3,"resourceVersion":"1.0","name":"OBJS_ENEMIES","tags":[],"resourceType":"GMFolder",},
   ],
   "AudioGroups": [
     {"targets":-1,"resourceVersion":"1.3","name":"audiogroup_default","resourceType":"GMAudioGroup",},
@@ -110,7 +111,7 @@
   ],
   "IncludedFiles": [],
   "MetaData": {
-    "IDEVersion": "2.3.6.595",
+    "IDEVersion": "2.3.7.606",
   },
   "resourceVersion": "1.4",
   "name": "RW",

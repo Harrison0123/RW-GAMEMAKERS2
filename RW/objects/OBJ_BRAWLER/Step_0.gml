@@ -1,0 +1,2 @@
+/// @description VOID OF ENEMY
+

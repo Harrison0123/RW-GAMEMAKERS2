@@ -22,5 +22,8 @@ cy = clamp(cy, min_view_y, max_view_y);            //Keep the vertical camera in
 camera_set_view_pos(view_camera[0], cx, cy);       //Set position of the camera and the current slot, as default camera[0]
 
 
+///Change_values
+
+///aqui va el cambio (recordar)
 
 
