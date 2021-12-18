@@ -10,6 +10,7 @@ walksp                = 1.5;           //Velocity (How fast hsp will move and af
 PlayerStatus          = SCRP_IDLES;  //State (When the game runs this state will execute)
 isHurt                = false;       //If she get hurt
 isInmune              = false;       //If she is inmune to damage
+aura_id               = noone        //Holds the effect of aura
 //PlayerSlide         = 3;           //How long she will slide
 //SlideLock           = false;       //Check if she can slide
 

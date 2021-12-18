@@ -1,0 +1,6 @@
+////Diciembre:
+
+-Se ha añadido un sprite de aura
+ *Los sprites de aura sirven para generar entornos de iluminación basados en formas en
+  los que próximamente se usan para realizar "Surfaces sobre los entornos", en la carpeta de
+  testing sprites, hay un ejemplo clásico.

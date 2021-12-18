@@ -20,3 +20,8 @@ SCRP_PLAYERIS               ();      //Depending on the decision the sprite will
 
 
 ///aqui va el cambio (recordar)
+
+with(aura_id){
+x = OBJ_PLAYER.x;
+y = OBJ_PLAYER.y;
+}
